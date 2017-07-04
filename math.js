@@ -1,6 +1,6 @@
-var x = 3;
-var y = 7;
+var a = 5;
+var b = 12;
 
-var calc = y - x;
+var sum = a + b;
 
-console.log(calc);
+console.log(sum);
